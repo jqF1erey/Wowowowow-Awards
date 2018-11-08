@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+.spacing{
+    padding-bottom: 20px;
+}
+
+.toobig{
+    width: 190px;
+}
+
+.tosmal{
+    font-size:20px;
+}
+
+.middle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.smash{
+    font-family: 'Cinzel', serif;
+}
+.reese{
+    font-family: 'Poor Story', cursive;
+}
+.snake{
+    font-family: 'Patrick Hand', cursive;
+}
+.heart{
+    font-family: 'Kumar One Outline', cursive;
+}
